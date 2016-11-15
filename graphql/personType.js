@@ -9,6 +9,7 @@ module.exports = new GraphQLObjectType({
     fields: {
         firstName: {type: GraphQLString},
         lastName:  {type: GraphQLString},
-        age:       {type: GraphQLInt}
+        age:       {type: GraphQLInt},
+        id:        {type: GraphQLInt}
     }
 });
