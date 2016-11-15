@@ -1,0 +1,52 @@
+[
+    {
+        "uuid": 1001,
+        "name": "Jon",
+        "givenName": "Snow"
+    },
+    {
+        "uuid": 1002,
+        "name": "Sansa",
+        "givenName": "Stark"
+    },
+    {
+        "uuid": 1003,
+        "name": "Arya",
+        "givenName": "Stark"
+    },
+    {
+        "uuid": 1004,
+        "name": "Tyrion",
+        "givenName": "Lannister"
+    },
+    {
+        "uuid": 1005,
+        "name": "Jaime",
+        "givenName": "Lannister"
+    },
+    {
+        "uuid": 1006,
+        "name": "Cersei",
+        "givenName": "Lannister"
+    },
+    {
+        "uuid": 1007,
+        "name": "Daenerys",
+        "givenName": "Targaryen"
+    },
+    {
+        "uuid": 1008,
+        "name": "Margaery",
+        "givenName": "Tyrell"
+    },
+    {
+        "uuid": 1009,
+        "name": "Oberyn",
+        "givenName": "Martell"
+    },
+    {
+        "uuid": 1010,
+        "name": "Hodor",
+        "givenName": "Hodor"
+    }
+]
