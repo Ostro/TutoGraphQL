@@ -1,5 +1,7 @@
 module.exports = {
-    firstName: 'John',
-    lastName:  'Doe',
-    age:       26
+    firstName: 'Arnaud',
+    lastName:  'Lebreton',
+    age:       26,
+    id: 1,
+    hobbies: ['basketball', 'snowboard', 'rock music', 'guitar']
 };
